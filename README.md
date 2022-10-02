@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 [website]: https://www.ahmetcakirci.com/
 [twitter]: https://twitter.com/ahmet_cakirci
-[youtube]: https://youtube.com/channel/UCc0LbdRlLdvcwjwlEMUlC7Q
+[youtube]: https://www.youtube.com/channel/UCIg2c6qtFPmBYQWW6wiwXFA
 [facebook]: https://facebook.com/cakirciahmet
 [linkedin]: https://linkedin.com/in/ahmet-çakırcı-6b89878a/
